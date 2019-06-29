@@ -1,2 +1,2 @@
 # cpp-practice
-C++ Practice
+C++ Practice (C++ Fundamentals Francesco Zoffoli, Antonio Mallia)
